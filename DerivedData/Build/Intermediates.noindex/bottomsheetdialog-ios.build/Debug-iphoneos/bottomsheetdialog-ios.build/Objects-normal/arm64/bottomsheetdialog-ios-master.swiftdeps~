@@ -1,0 +1,10 @@
+version: "Apple Swift version 5.4.2 (swiftlang-1205.0.28.2 clang-1205.0.19.57)"
+options: "4136eaff588ef37b27b4bdb98c00778c"
+build_time: [1633546709, 327726000]
+inputs:
+  "/Users/wallace/Documents/bottomsheetdialog-ios/bottomsheetdialog-ios/ViewController.swift": [1633537289, 818702650]
+  "/Users/wallace/Documents/bottomsheetdialog-ios/bottomsheetdialog-ios/Button.swift": [1633540835, 981016114]
+  "/Users/wallace/Documents/bottomsheetdialog-ios/bottomsheetdialog-ios/AppDelegate.swift": [1633531657, 206516176]
+  "/Users/wallace/Documents/bottomsheetdialog-ios/bottomsheetdialog-ios/SceneDelegate.swift": [1633531657, 211979510]
+  "/Users/wallace/Documents/bottomsheetdialog-ios/bottomsheetdialog-ios/UIExtensions.swift": [1633545130, 814512856]
+  "/Users/wallace/Documents/bottomsheetdialog-ios/bottomsheetdialog-ios/BottomSheetDialogView.swift": [1633546709, 260991489]
