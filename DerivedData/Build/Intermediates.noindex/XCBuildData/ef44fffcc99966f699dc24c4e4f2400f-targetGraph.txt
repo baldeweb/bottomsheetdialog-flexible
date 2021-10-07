@@ -1,0 +1,7 @@
+Target dependency graph (3 targets)
+SnapKit in Pods, no dependencies
+Pods-bottomsheetdialog-ios in Pods, depends on:
+SnapKit in Pods (explicit)
+bottomsheetdialog-ios in bottomsheetdialog-ios, depends on:
+Pods-bottomsheetdialog-ios in Pods (implicit dependency via file 'Pods_bottomsheetdialog_ios.framework' in build phase 'Link Binary')
+SnapKit in Pods (implicit dependency via options '-framework SnapKit' in build setting 'OTHER_LDFLAGS')

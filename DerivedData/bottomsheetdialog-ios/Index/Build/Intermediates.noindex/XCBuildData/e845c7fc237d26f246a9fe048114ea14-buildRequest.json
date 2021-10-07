@@ -1,0 +1,67 @@
+{
+  "_buildCommand2" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "8699adb1dd336b26511df848a716bd421130daa4894db4a9220537a0c61d4fd9"
+    },
+    {
+      "guid" : "8699adb1dd336b26511df848a716bd424d41dad6e97452d29e4f821cc99d00a8"
+    },
+    {
+      "guid" : "e81cb031b572bc5ac9c5a030911d66b8e37fbc7e47230f839e2c3ed59f49e0ba"
+    }
+  ],
+  "containerPath" : "/Users/wallace/Documents/bottomsheetdialog-ios/bottomsheetdialog-ios.xcworkspace",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphoneos",
+      "sdk" : "iphoneos15.0",
+      "sdkVariant" : "iphoneos",
+      "supportedArchitectures" : [
+        "arm64e",
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/wallace/Documents/bottomsheetdialog-ios/DerivedData/bottomsheetdialog-ios/Index/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/wallace/Documents/bottomsheetdialog-ios/DerivedData/bottomsheetdialog-ios/Index/Build/Products",
+      "derivedDataPath" : "/Users/wallace/Documents/bottomsheetdialog-ios/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/wallace/Documents/bottomsheetdialog-ios/DerivedData/bottomsheetdialog-ios/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/wallace/Documents/bottomsheetdialog-ios/DerivedData/bottomsheetdialog-ios/Index/PrecompiledHeaders",
+      "pchPath" : "/Users/wallace/Documents/bottomsheetdialog-ios/DerivedData/bottomsheetdialog-ios/Index/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "INDEX_ARENA_INFO_REGULAR_BUILD_PRODUCTS_DIR" : "/Users/wallace/Documents/bottomsheetdialog-ios/DerivedData/Build/Products",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "utility",
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

@@ -1,10 +1,13 @@
-version: "Apple Swift version 5.4.2 (swiftlang-1205.0.28.2 clang-1205.0.19.57)"
-options: "4136eaff588ef37b27b4bdb98c00778c"
-build_time: [1633546709, 327726000]
+version: "Apple Swift version 5.5 (swiftlang-1300.0.31.1 clang-1300.0.29.1)"
+options: "3c476f1a1c934a78eb7655a27ea29bc9b8ed18343048c552601f5fc2a47f8558"
+build_start_time: [1633626103, 429851055]
+build_end_time: [1633626105, 147976875]
 inputs:
-  "/Users/wallace/Documents/bottomsheetdialog-ios/bottomsheetdialog-ios/ViewController.swift": [1633537289, 818702650]
-  "/Users/wallace/Documents/bottomsheetdialog-ios/bottomsheetdialog-ios/Button.swift": [1633540835, 981016114]
-  "/Users/wallace/Documents/bottomsheetdialog-ios/bottomsheetdialog-ios/AppDelegate.swift": [1633531657, 206516176]
-  "/Users/wallace/Documents/bottomsheetdialog-ios/bottomsheetdialog-ios/SceneDelegate.swift": [1633531657, 211979510]
-  "/Users/wallace/Documents/bottomsheetdialog-ios/bottomsheetdialog-ios/UIExtensions.swift": [1633545130, 814512856]
-  "/Users/wallace/Documents/bottomsheetdialog-ios/bottomsheetdialog-ios/BottomSheetDialogView.swift": [1633546709, 260991489]
+  "/Users/wallace/Documents/bottomsheetdialog-ios/bottomsheetdialog-ios/AppDelegate.swift": [1633531657, 206516265]
+  "/Users/wallace/Documents/bottomsheetdialog-ios/bottomsheetdialog-ios/BottomSheetDialogView.swift": !private [1633623789, 336104869]
+  "/Users/wallace/Documents/bottomsheetdialog-ios/bottomsheetdialog-ios/Button.swift": [1633616088, 473053455]
+  "/Users/wallace/Documents/bottomsheetdialog-ios/bottomsheetdialog-ios/ButtonStyleEnum.swift": [1633616186, 193737030]
+  "/Users/wallace/Documents/bottomsheetdialog-ios/bottomsheetdialog-ios/DialogStyleEnum.swift": [1633618676, 549279212]
+  "/Users/wallace/Documents/bottomsheetdialog-ios/bottomsheetdialog-ios/SceneDelegate.swift": [1633531657, 211979389]
+  "/Users/wallace/Documents/bottomsheetdialog-ios/bottomsheetdialog-ios/UIExtensions.swift": [1633545130, 814512729]
+  "/Users/wallace/Documents/bottomsheetdialog-ios/bottomsheetdialog-ios/ViewController.swift": [1633618509, 927100658]

@@ -6,7 +6,7 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>11340C5D-3D7D-4B33-9DC7-52F225765F01</key>
+		<key>0139E5B9-DA7E-420D-83ED-B8CA06759E04</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -15,7 +15,551 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>11340C5D-3D7D-4B33-9DC7-52F225765F01.xcactivitylog</string>
+			<string>0139E5B9-DA7E-420D-83ED-B8CA06759E04.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>bottomsheetdialog-ios project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>bottomsheetdialog-ios</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>timeStartedRecording</key>
+			<real>655323755.84300804</real>
+			<key>timeStoppedRecording</key>
+			<real>655323755.89579499</real>
+			<key>title</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>uniqueIdentifier</key>
+			<string>0139E5B9-DA7E-420D-83ED-B8CA06759E04</string>
+		</dict>
+		<key>01808C94-B207-4E99-835F-E181D3041BC4</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>01808C94-B207-4E99-835F-E181D3041BC4.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>bottomsheetdialog-ios project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>bottomsheetdialog-ios</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>timeStartedRecording</key>
+			<real>655322717.75182295</real>
+			<key>timeStoppedRecording</key>
+			<real>655322718.58537996</real>
+			<key>title</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>uniqueIdentifier</key>
+			<string>01808C94-B207-4E99-835F-E181D3041BC4</string>
+		</dict>
+		<key>0507EA92-8395-4D80-85E5-CC66DF414B0B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>0507EA92-8395-4D80-85E5-CC66DF414B0B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>bottomsheetdialog-ios project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>bottomsheetdialog-ios</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>timeStartedRecording</key>
+			<real>655320902.74690998</real>
+			<key>timeStoppedRecording</key>
+			<real>655320903.00696599</real>
+			<key>title</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>uniqueIdentifier</key>
+			<string>0507EA92-8395-4D80-85E5-CC66DF414B0B</string>
+		</dict>
+		<key>07484AEC-3A6E-444F-AEE8-CB5CE7250D98</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>07484AEC-3A6E-444F-AEE8-CB5CE7250D98.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>bottomsheetdialog-ios project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>bottomsheetdialog-ios</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>timeStartedRecording</key>
+			<real>655323063.36854398</real>
+			<key>timeStoppedRecording</key>
+			<real>655323064.212942</real>
+			<key>title</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>uniqueIdentifier</key>
+			<string>07484AEC-3A6E-444F-AEE8-CB5CE7250D98</string>
+		</dict>
+		<key>0B40022C-0E87-42B9-B731-D86A516F2566</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>0B40022C-0E87-42B9-B731-D86A516F2566.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>bottomsheetdialog-ios project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>bottomsheetdialog-ios</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>timeStartedRecording</key>
+			<real>655319192.87811697</real>
+			<key>timeStoppedRecording</key>
+			<real>655319193.66782606</real>
+			<key>title</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>uniqueIdentifier</key>
+			<string>0B40022C-0E87-42B9-B731-D86A516F2566</string>
+		</dict>
+		<key>0C674218-6EFB-44A4-BE86-B800D446CCDB</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>0C674218-6EFB-44A4-BE86-B800D446CCDB.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>bottomsheetdialog-ios project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>bottomsheetdialog-ios</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>timeStartedRecording</key>
+			<real>655322688.129614</real>
+			<key>timeStoppedRecording</key>
+			<real>655322688.18239295</real>
+			<key>title</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>uniqueIdentifier</key>
+			<string>0C674218-6EFB-44A4-BE86-B800D446CCDB</string>
+		</dict>
+		<key>0DCF7C60-2A1D-4390-8D22-AE1A5C32D943</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>0DCF7C60-2A1D-4390-8D22-AE1A5C32D943.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>bottomsheetdialog-ios project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>bottomsheetdialog-ios</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>timeStartedRecording</key>
+			<real>655321555.82184803</real>
+			<key>timeStoppedRecording</key>
+			<real>655321556.15631998</real>
+			<key>title</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>uniqueIdentifier</key>
+			<string>0DCF7C60-2A1D-4390-8D22-AE1A5C32D943</string>
+		</dict>
+		<key>0E34E2C4-F9E2-47DD-A377-34DEBD0405BB</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>0E34E2C4-F9E2-47DD-A377-34DEBD0405BB.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>bottomsheetdialog-ios project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>bottomsheetdialog-ios</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>timeStartedRecording</key>
+			<real>655323739.18550503</real>
+			<key>timeStoppedRecording</key>
+			<real>655323739.25787306</real>
+			<key>title</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>uniqueIdentifier</key>
+			<string>0E34E2C4-F9E2-47DD-A377-34DEBD0405BB</string>
+		</dict>
+		<key>14645EF5-97D5-4DFA-99DE-FCAEB18DC618</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>14645EF5-97D5-4DFA-99DE-FCAEB18DC618.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>bottomsheetdialog-ios project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>bottomsheetdialog-ios</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>timeStartedRecording</key>
+			<real>655321337.26786697</real>
+			<key>timeStoppedRecording</key>
+			<real>655321337.57357395</real>
+			<key>title</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>uniqueIdentifier</key>
+			<string>14645EF5-97D5-4DFA-99DE-FCAEB18DC618</string>
+		</dict>
+		<key>148E7A35-2D1E-4341-995E-08007654B758</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>148E7A35-2D1E-4341-995E-08007654B758.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>bottomsheetdialog-ios project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>bottomsheetdialog-ios</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>timeStartedRecording</key>
+			<real>655323545.02379596</real>
+			<key>timeStoppedRecording</key>
+			<real>655323545.77229798</real>
+			<key>title</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>uniqueIdentifier</key>
+			<string>148E7A35-2D1E-4341-995E-08007654B758</string>
+		</dict>
+		<key>1575B05D-E27D-43E4-B395-22E56AF74B82</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>1575B05D-E27D-43E4-B395-22E56AF74B82.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>bottomsheetdialog-ios project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>bottomsheetdialog-ios</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>timeStartedRecording</key>
+			<real>655323217.22753406</real>
+			<key>timeStoppedRecording</key>
+			<real>655323218.244488</real>
+			<key>title</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>uniqueIdentifier</key>
+			<string>1575B05D-E27D-43E4-B395-22E56AF74B82</string>
+		</dict>
+		<key>17575A8D-6C18-4BE4-9FFE-FE85FFCBAE7D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>17575A8D-6C18-4BE4-9FFE-FE85FFCBAE7D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>bottomsheetdialog-ios project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>bottomsheetdialog-ios</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>timeStartedRecording</key>
+			<real>655321580.65266502</real>
+			<key>timeStoppedRecording</key>
+			<real>655321581.08294201</real>
+			<key>title</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>uniqueIdentifier</key>
+			<string>17575A8D-6C18-4BE4-9FFE-FE85FFCBAE7D</string>
+		</dict>
+		<key>17E24556-D6CB-4A83-A0C8-723BDA032C92</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>17E24556-D6CB-4A83-A0C8-723BDA032C92.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>bottomsheetdialog-ios project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>bottomsheetdialog-ios</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>timeStartedRecording</key>
+			<real>655321611.86972296</real>
+			<key>timeStoppedRecording</key>
+			<real>655321612.03929496</real>
+			<key>title</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>uniqueIdentifier</key>
+			<string>17E24556-D6CB-4A83-A0C8-723BDA032C92</string>
+		</dict>
+		<key>19B942F7-C37B-41B4-B5F2-BBA8DD35E0C8</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>19B942F7-C37B-41B4-B5F2-BBA8DD35E0C8.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>bottomsheetdialog-ios project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>bottomsheetdialog-ios</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>timeStartedRecording</key>
+			<real>655321598.74537396</real>
+			<key>timeStoppedRecording</key>
+			<real>655321598.92168903</real>
+			<key>title</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>uniqueIdentifier</key>
+			<string>19B942F7-C37B-41B4-B5F2-BBA8DD35E0C8</string>
+		</dict>
+		<key>1D53A564-A5D1-4ECC-873B-6E9E1E41C7D2</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>1D53A564-A5D1-4ECC-873B-6E9E1E41C7D2.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>bottomsheetdialog-ios project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>bottomsheetdialog-ios</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>timeStartedRecording</key>
+			<real>655321675.658723</real>
+			<key>timeStoppedRecording</key>
+			<real>655321676.04546297</real>
+			<key>title</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>uniqueIdentifier</key>
+			<string>1D53A564-A5D1-4ECC-873B-6E9E1E41C7D2</string>
+		</dict>
+		<key>250C2F1C-7F7A-4087-B187-B1C33DCA0743</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>250C2F1C-7F7A-4087-B187-B1C33DCA0743.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>bottomsheetdialog-ios project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>bottomsheetdialog-ios</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>timeStartedRecording</key>
+			<real>655321646.89156699</real>
+			<key>timeStoppedRecording</key>
+			<real>655321647.16006196</real>
+			<key>title</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>uniqueIdentifier</key>
+			<string>250C2F1C-7F7A-4087-B187-B1C33DCA0743</string>
+		</dict>
+		<key>29075ADD-839A-4E0B-8AF7-556F52232A16</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>29075ADD-839A-4E0B-8AF7-556F52232A16.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -32,15 +576,15 @@
 			<key>signature</key>
 			<string>Clean bottomsheetdialog-ios</string>
 			<key>timeStartedRecording</key>
-			<real>655237670.48789406</real>
+			<real>655316601.01051295</real>
 			<key>timeStoppedRecording</key>
-			<real>655237670.540609</real>
+			<real>655316601.04288805</real>
 			<key>title</key>
 			<string>Clean bottomsheetdialog-ios</string>
 			<key>uniqueIdentifier</key>
-			<string>11340C5D-3D7D-4B33-9DC7-52F225765F01</string>
+			<string>29075ADD-839A-4E0B-8AF7-556F52232A16</string>
 		</dict>
-		<key>24CEE528-A589-4C5C-9784-0F79A87CB535</key>
+		<key>2F6FDCEA-58AB-4667-83AE-B25A38A829F4</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -49,7 +593,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>24CEE528-A589-4C5C-9784-0F79A87CB535.xcactivitylog</string>
+			<string>2F6FDCEA-58AB-4667-83AE-B25A38A829F4.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -66,15 +610,15 @@
 			<key>signature</key>
 			<string>Build bottomsheetdialog-ios</string>
 			<key>timeStartedRecording</key>
-			<real>655238466.10811496</real>
+			<real>655322781.01413798</real>
 			<key>timeStoppedRecording</key>
-			<real>655238467.46863198</real>
+			<real>655322781.89488602</real>
 			<key>title</key>
 			<string>Build bottomsheetdialog-ios</string>
 			<key>uniqueIdentifier</key>
-			<string>24CEE528-A589-4C5C-9784-0F79A87CB535</string>
+			<string>2F6FDCEA-58AB-4667-83AE-B25A38A829F4</string>
 		</dict>
-		<key>2F88A088-6A72-4730-94A3-7BDF96F532D1</key>
+		<key>3719D31A-963D-4113-ABC7-5B9DB4298576</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -83,7 +627,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>2F88A088-6A72-4730-94A3-7BDF96F532D1.xcactivitylog</string>
+			<string>3719D31A-963D-4113-ABC7-5B9DB4298576.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -100,15 +644,15 @@
 			<key>signature</key>
 			<string>Build bottomsheetdialog-ios</string>
 			<key>timeStartedRecording</key>
-			<real>655238446.90388894</real>
+			<real>655322852.48356795</real>
 			<key>timeStoppedRecording</key>
-			<real>655238448.13638103</real>
+			<real>655322853.37729502</real>
 			<key>title</key>
 			<string>Build bottomsheetdialog-ios</string>
 			<key>uniqueIdentifier</key>
-			<string>2F88A088-6A72-4730-94A3-7BDF96F532D1</string>
+			<string>3719D31A-963D-4113-ABC7-5B9DB4298576</string>
 		</dict>
-		<key>335B9BF1-0E86-4D45-AE9B-10E55CEFCD93</key>
+		<key>384D7192-6A79-4F6A-88BC-96799A0DC5D0</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -117,7 +661,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>335B9BF1-0E86-4D45-AE9B-10E55CEFCD93.xcactivitylog</string>
+			<string>384D7192-6A79-4F6A-88BC-96799A0DC5D0.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -134,15 +678,15 @@
 			<key>signature</key>
 			<string>Build bottomsheetdialog-ios</string>
 			<key>timeStartedRecording</key>
-			<real>655239420.03562903</real>
+			<real>655321882.15180302</real>
 			<key>timeStoppedRecording</key>
-			<real>655239421.77371097</real>
+			<real>655321883.10088205</real>
 			<key>title</key>
 			<string>Build bottomsheetdialog-ios</string>
 			<key>uniqueIdentifier</key>
-			<string>335B9BF1-0E86-4D45-AE9B-10E55CEFCD93</string>
+			<string>384D7192-6A79-4F6A-88BC-96799A0DC5D0</string>
 		</dict>
-		<key>4897BD11-524E-40BE-9EA9-D103894107CC</key>
+		<key>3A042349-67DD-4CAB-A765-BCC439FCCEB7</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -151,7 +695,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>4897BD11-524E-40BE-9EA9-D103894107CC.xcactivitylog</string>
+			<string>3A042349-67DD-4CAB-A765-BCC439FCCEB7.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -168,15 +712,15 @@
 			<key>signature</key>
 			<string>Build bottomsheetdialog-ios</string>
 			<key>timeStartedRecording</key>
-			<real>655238526.54809999</real>
+			<real>655318968.35132205</real>
 			<key>timeStoppedRecording</key>
-			<real>655238527.83640206</real>
+			<real>655318973.07973194</real>
 			<key>title</key>
 			<string>Build bottomsheetdialog-ios</string>
 			<key>uniqueIdentifier</key>
-			<string>4897BD11-524E-40BE-9EA9-D103894107CC</string>
+			<string>3A042349-67DD-4CAB-A765-BCC439FCCEB7</string>
 		</dict>
-		<key>58A3E1D7-A4B5-4898-90EE-69D80F93D118</key>
+		<key>3E72D44E-6852-46F9-8DF9-B523482D9753</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -185,143 +729,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>58A3E1D7-A4B5-4898-90EE-69D80F93D118.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>bottomsheetdialog-ios project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>bottomsheetdialog-ios</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build bottomsheetdialog-ios</string>
-			<key>timeStartedRecording</key>
-			<real>655238487.95894396</real>
-			<key>timeStoppedRecording</key>
-			<real>655238488.63459599</real>
-			<key>title</key>
-			<string>Build bottomsheetdialog-ios</string>
-			<key>uniqueIdentifier</key>
-			<string>58A3E1D7-A4B5-4898-90EE-69D80F93D118</string>
-		</dict>
-		<key>59E64BED-E438-4938-8629-8F8218FCDE18</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>59E64BED-E438-4938-8629-8F8218FCDE18.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>bottomsheetdialog-ios project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>bottomsheetdialog-ios</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build bottomsheetdialog-ios</string>
-			<key>timeStartedRecording</key>
-			<real>655239509.26979995</real>
-			<key>timeStoppedRecording</key>
-			<real>655239509.85012805</real>
-			<key>title</key>
-			<string>Build bottomsheetdialog-ios</string>
-			<key>uniqueIdentifier</key>
-			<string>59E64BED-E438-4938-8629-8F8218FCDE18</string>
-		</dict>
-		<key>5AFFFA6C-9756-4E66-9668-E71F7D0B8073</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>5AFFFA6C-9756-4E66-9668-E71F7D0B8073.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>bottomsheetdialog-ios project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>bottomsheetdialog-ios</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build bottomsheetdialog-ios</string>
-			<key>timeStartedRecording</key>
-			<real>655239294.24209201</real>
-			<key>timeStoppedRecording</key>
-			<real>655239295.12315595</real>
-			<key>title</key>
-			<string>Build bottomsheetdialog-ios</string>
-			<key>uniqueIdentifier</key>
-			<string>5AFFFA6C-9756-4E66-9668-E71F7D0B8073</string>
-		</dict>
-		<key>6611714C-C364-4F6D-8601-F541EB37341D</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>6611714C-C364-4F6D-8601-F541EB37341D.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>bottomsheetdialog-ios project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>bottomsheetdialog-ios</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build bottomsheetdialog-ios</string>
-			<key>timeStartedRecording</key>
-			<real>655239226.29678297</real>
-			<key>timeStoppedRecording</key>
-			<real>655239228.35908401</real>
-			<key>title</key>
-			<string>Build bottomsheetdialog-ios</string>
-			<key>uniqueIdentifier</key>
-			<string>6611714C-C364-4F6D-8601-F541EB37341D</string>
-		</dict>
-		<key>8F5A0B5B-7F4D-4DEB-8DB8-ACE98FA92CB8</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>8F5A0B5B-7F4D-4DEB-8DB8-ACE98FA92CB8.xcactivitylog</string>
+			<string>3E72D44E-6852-46F9-8DF9-B523482D9753.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -338,15 +746,15 @@
 			<key>signature</key>
 			<string>Build bottomsheetdialog-ios</string>
 			<key>timeStartedRecording</key>
-			<real>655238482.162467</real>
+			<real>655318949.49935496</real>
 			<key>timeStoppedRecording</key>
-			<real>655238483.06807995</real>
+			<real>655318949.74252295</real>
 			<key>title</key>
 			<string>Build bottomsheetdialog-ios</string>
 			<key>uniqueIdentifier</key>
-			<string>8F5A0B5B-7F4D-4DEB-8DB8-ACE98FA92CB8</string>
+			<string>3E72D44E-6852-46F9-8DF9-B523482D9753</string>
 		</dict>
-		<key>92E703C7-5C45-4824-B365-BC6EF0FEAC7D</key>
+		<key>3FB547A8-4FC3-4C2B-B853-F1DA895E724E</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -355,7 +763,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>92E703C7-5C45-4824-B365-BC6EF0FEAC7D.xcactivitylog</string>
+			<string>3FB547A8-4FC3-4C2B-B853-F1DA895E724E.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -372,15 +780,15 @@
 			<key>signature</key>
 			<string>Build bottomsheetdialog-ios</string>
 			<key>timeStartedRecording</key>
-			<real>655239373.64749801</real>
+			<real>655319523.50151205</real>
 			<key>timeStoppedRecording</key>
-			<real>655239375.30449796</real>
+			<real>655319524.28982604</real>
 			<key>title</key>
 			<string>Build bottomsheetdialog-ios</string>
 			<key>uniqueIdentifier</key>
-			<string>92E703C7-5C45-4824-B365-BC6EF0FEAC7D</string>
+			<string>3FB547A8-4FC3-4C2B-B853-F1DA895E724E</string>
 		</dict>
-		<key>9EA5D54E-6D44-4B24-A016-7642619A5CE8</key>
+		<key>3FFF66E6-E895-4B28-B59D-7D1FDCD970C8</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -389,7 +797,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>9EA5D54E-6D44-4B24-A016-7642619A5CE8.xcactivitylog</string>
+			<string>3FFF66E6-E895-4B28-B59D-7D1FDCD970C8.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -406,15 +814,15 @@
 			<key>signature</key>
 			<string>Build bottomsheetdialog-ios</string>
 			<key>timeStartedRecording</key>
-			<real>655238206.71349394</real>
+			<real>655323047.03460503</real>
 			<key>timeStoppedRecording</key>
-			<real>655238209.32284999</real>
+			<real>655323048.02238202</real>
 			<key>title</key>
 			<string>Build bottomsheetdialog-ios</string>
 			<key>uniqueIdentifier</key>
-			<string>9EA5D54E-6D44-4B24-A016-7642619A5CE8</string>
+			<string>3FFF66E6-E895-4B28-B59D-7D1FDCD970C8</string>
 		</dict>
-		<key>A2A07CE5-8B4D-46A7-8870-3E4C38FF485F</key>
+		<key>402EFD0E-F802-4B39-823A-54A1B84ADBA9</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -423,7 +831,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>A2A07CE5-8B4D-46A7-8870-3E4C38FF485F.xcactivitylog</string>
+			<string>402EFD0E-F802-4B39-823A-54A1B84ADBA9.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -440,15 +848,15 @@
 			<key>signature</key>
 			<string>Build bottomsheetdialog-ios</string>
 			<key>timeStartedRecording</key>
-			<real>655238513.31264496</real>
+			<real>655322037.83245897</real>
 			<key>timeStoppedRecording</key>
-			<real>655238514.05652797</real>
+			<real>655322038.68814898</real>
 			<key>title</key>
 			<string>Build bottomsheetdialog-ios</string>
 			<key>uniqueIdentifier</key>
-			<string>A2A07CE5-8B4D-46A7-8870-3E4C38FF485F</string>
+			<string>402EFD0E-F802-4B39-823A-54A1B84ADBA9</string>
 		</dict>
-		<key>A7921BCA-3BB7-4D4B-A5E1-D19D623846D8</key>
+		<key>40A4FA17-C801-4452-BA6C-D02DFEB33834</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -457,7 +865,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>A7921BCA-3BB7-4D4B-A5E1-D19D623846D8.xcactivitylog</string>
+			<string>40A4FA17-C801-4452-BA6C-D02DFEB33834.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -474,15 +882,15 @@
 			<key>signature</key>
 			<string>Build bottomsheetdialog-ios</string>
 			<key>timeStartedRecording</key>
-			<real>655239198.86236</real>
+			<real>655321788.399611</real>
 			<key>timeStoppedRecording</key>
-			<real>655239198.942837</real>
+			<real>655321789.20402598</real>
 			<key>title</key>
 			<string>Build bottomsheetdialog-ios</string>
 			<key>uniqueIdentifier</key>
-			<string>A7921BCA-3BB7-4D4B-A5E1-D19D623846D8</string>
+			<string>40A4FA17-C801-4452-BA6C-D02DFEB33834</string>
 		</dict>
-		<key>BB07D529-10C3-40AF-A181-35994645807F</key>
+		<key>4125EF98-B332-47B8-ABEE-3ACB823531FA</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -491,7 +899,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>BB07D529-10C3-40AF-A181-35994645807F.xcactivitylog</string>
+			<string>4125EF98-B332-47B8-ABEE-3ACB823531FA.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -508,15 +916,15 @@
 			<key>signature</key>
 			<string>Build bottomsheetdialog-ios</string>
 			<key>timeStartedRecording</key>
-			<real>655238424.25533199</real>
+			<real>655323239.20101702</real>
 			<key>timeStoppedRecording</key>
-			<real>655238426.50061595</real>
+			<real>655323239.90198195</real>
 			<key>title</key>
 			<string>Build bottomsheetdialog-ios</string>
 			<key>uniqueIdentifier</key>
-			<string>BB07D529-10C3-40AF-A181-35994645807F</string>
+			<string>4125EF98-B332-47B8-ABEE-3ACB823531FA</string>
 		</dict>
-		<key>C4B7C317-2BBF-4711-98E8-7A72F7C8A45D</key>
+		<key>4474B9D9-AF92-4392-8BEC-8D6D4E9BCF3A</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -525,7 +933,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>C4B7C317-2BBF-4711-98E8-7A72F7C8A45D.xcactivitylog</string>
+			<string>4474B9D9-AF92-4392-8BEC-8D6D4E9BCF3A.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -542,15 +950,15 @@
 			<key>signature</key>
 			<string>Build bottomsheetdialog-ios</string>
 			<key>timeStartedRecording</key>
-			<real>655239554.04369605</real>
+			<real>655322110.77877402</real>
 			<key>timeStoppedRecording</key>
-			<real>655239555.65532303</real>
+			<real>655322111.61657405</real>
 			<key>title</key>
 			<string>Build bottomsheetdialog-ios</string>
 			<key>uniqueIdentifier</key>
-			<string>C4B7C317-2BBF-4711-98E8-7A72F7C8A45D</string>
+			<string>4474B9D9-AF92-4392-8BEC-8D6D4E9BCF3A</string>
 		</dict>
-		<key>C657EC7B-10D3-4D16-B7DB-C543A0771E8F</key>
+		<key>48A7FAEC-A0A8-4772-AC8B-7F7BD9FB19C3</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -559,7 +967,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>C657EC7B-10D3-4D16-B7DB-C543A0771E8F.xcactivitylog</string>
+			<string>48A7FAEC-A0A8-4772-AC8B-7F7BD9FB19C3.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -576,15 +984,15 @@
 			<key>signature</key>
 			<string>Build bottomsheetdialog-ios</string>
 			<key>timeStartedRecording</key>
-			<real>655237932.74609494</real>
+			<real>655319369.65698397</real>
 			<key>timeStoppedRecording</key>
-			<real>655237934.943084</real>
+			<real>655319370.14759398</real>
 			<key>title</key>
 			<string>Build bottomsheetdialog-ios</string>
 			<key>uniqueIdentifier</key>
-			<string>C657EC7B-10D3-4D16-B7DB-C543A0771E8F</string>
+			<string>48A7FAEC-A0A8-4772-AC8B-7F7BD9FB19C3</string>
 		</dict>
-		<key>D0DCB92E-2D98-4FE2-A307-D1963EA13AE6</key>
+		<key>4CF5B814-71D2-4EEB-9AF7-C04D9AEF7FF7</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -593,7 +1001,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>D0DCB92E-2D98-4FE2-A307-D1963EA13AE6.xcactivitylog</string>
+			<string>4CF5B814-71D2-4EEB-9AF7-C04D9AEF7FF7.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -610,15 +1018,15 @@
 			<key>signature</key>
 			<string>Build bottomsheetdialog-ios</string>
 			<key>timeStartedRecording</key>
-			<real>655237877.95431304</real>
+			<real>655318933.83584797</real>
 			<key>timeStoppedRecording</key>
-			<real>655237878.28042805</real>
+			<real>655318934.09048402</real>
 			<key>title</key>
 			<string>Build bottomsheetdialog-ios</string>
 			<key>uniqueIdentifier</key>
-			<string>D0DCB92E-2D98-4FE2-A307-D1963EA13AE6</string>
+			<string>4CF5B814-71D2-4EEB-9AF7-C04D9AEF7FF7</string>
 		</dict>
-		<key>E5BA28C6-1255-41C5-B466-708E85BA00E1</key>
+		<key>5053B599-1E46-4F1C-B5CA-F3D3F89CA994</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -627,7 +1035,75 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>E5BA28C6-1255-41C5-B466-708E85BA00E1.xcactivitylog</string>
+			<string>5053B599-1E46-4F1C-B5CA-F3D3F89CA994.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>bottomsheetdialog-ios project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>bottomsheetdialog-ios</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>timeStartedRecording</key>
+			<real>655319773.66194797</real>
+			<key>timeStoppedRecording</key>
+			<real>655319774.54592204</real>
+			<key>title</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>uniqueIdentifier</key>
+			<string>5053B599-1E46-4F1C-B5CA-F3D3F89CA994</string>
+		</dict>
+		<key>524E4053-FC95-4457-ABCC-D51DE1DCF01F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>524E4053-FC95-4457-ABCC-D51DE1DCF01F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>bottomsheetdialog-ios project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>bottomsheetdialog-ios</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>timeStartedRecording</key>
+			<real>655321838.76932096</real>
+			<key>timeStoppedRecording</key>
+			<real>655321839.69131005</real>
+			<key>title</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>uniqueIdentifier</key>
+			<string>524E4053-FC95-4457-ABCC-D51DE1DCF01F</string>
+		</dict>
+		<key>5261C294-085E-4C47-B596-6ADAD56847A8</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>5261C294-085E-4C47-B596-6ADAD56847A8.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -644,13 +1120,2427 @@
 			<key>signature</key>
 			<string>Build bottomsheetdialog-ios</string>
 			<key>timeStartedRecording</key>
-			<real>655237701.46926796</real>
+			<real>655320949.67098105</real>
 			<key>timeStoppedRecording</key>
-			<real>655237701.946823</real>
+			<real>655320949.92663205</real>
 			<key>title</key>
 			<string>Build bottomsheetdialog-ios</string>
 			<key>uniqueIdentifier</key>
-			<string>E5BA28C6-1255-41C5-B466-708E85BA00E1</string>
+			<string>5261C294-085E-4C47-B596-6ADAD56847A8</string>
+		</dict>
+		<key>52940FC4-C681-4362-A378-0AEC13ED3AD0</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>52940FC4-C681-4362-A378-0AEC13ED3AD0.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>bottomsheetdialog-ios project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>bottomsheetdialog-ios</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>timeStartedRecording</key>
+			<real>655321189.49828601</real>
+			<key>timeStoppedRecording</key>
+			<real>655321189.74620605</real>
+			<key>title</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>uniqueIdentifier</key>
+			<string>52940FC4-C681-4362-A378-0AEC13ED3AD0</string>
+		</dict>
+		<key>542496E1-A258-4818-A003-183156A0510C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>542496E1-A258-4818-A003-183156A0510C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>bottomsheetdialog-ios project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>bottomsheetdialog-ios</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>timeStartedRecording</key>
+			<real>655323517.38100302</real>
+			<key>timeStoppedRecording</key>
+			<real>655323517.88360798</real>
+			<key>title</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>uniqueIdentifier</key>
+			<string>542496E1-A258-4818-A003-183156A0510C</string>
+		</dict>
+		<key>55B24281-6676-49F6-AFB8-655ACB99D82D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>55B24281-6676-49F6-AFB8-655ACB99D82D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>bottomsheetdialog-ios project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>bottomsheetdialog-ios</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>timeStartedRecording</key>
+			<real>655322979.70759404</real>
+			<key>timeStoppedRecording</key>
+			<real>655322980.52269197</real>
+			<key>title</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>uniqueIdentifier</key>
+			<string>55B24281-6676-49F6-AFB8-655ACB99D82D</string>
+		</dict>
+		<key>58C89192-344F-43CF-BB44-6DDF0D668F66</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>58C89192-344F-43CF-BB44-6DDF0D668F66.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>bottomsheetdialog-ios project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>bottomsheetdialog-ios</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>timeStartedRecording</key>
+			<real>655321007.79654098</real>
+			<key>timeStoppedRecording</key>
+			<real>655321008.05464697</real>
+			<key>title</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>uniqueIdentifier</key>
+			<string>58C89192-344F-43CF-BB44-6DDF0D668F66</string>
+		</dict>
+		<key>5A1B4F8C-F326-49DA-8685-7DC8B14B5425</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>5A1B4F8C-F326-49DA-8685-7DC8B14B5425.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>bottomsheetdialog-ios project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>bottomsheetdialog-ios</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>timeStartedRecording</key>
+			<real>655319797.21045697</real>
+			<key>timeStoppedRecording</key>
+			<real>655319797.95033097</real>
+			<key>title</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>uniqueIdentifier</key>
+			<string>5A1B4F8C-F326-49DA-8685-7DC8B14B5425</string>
+		</dict>
+		<key>5C64BA36-C722-47BB-9182-01DD8153E1C5</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>5C64BA36-C722-47BB-9182-01DD8153E1C5.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>bottomsheetdialog-ios project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>bottomsheetdialog-ios</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>timeStartedRecording</key>
+			<real>655322756.74804103</real>
+			<key>timeStoppedRecording</key>
+			<real>655322757.73390698</real>
+			<key>title</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>uniqueIdentifier</key>
+			<string>5C64BA36-C722-47BB-9182-01DD8153E1C5</string>
+		</dict>
+		<key>5FEEA305-B600-4DA3-B428-AC8EE737FA7F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>5FEEA305-B600-4DA3-B428-AC8EE737FA7F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>bottomsheetdialog-ios project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>bottomsheetdialog-ios</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>timeStartedRecording</key>
+			<real>655321900.27085197</real>
+			<key>timeStoppedRecording</key>
+			<real>655321901.22436905</real>
+			<key>title</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>uniqueIdentifier</key>
+			<string>5FEEA305-B600-4DA3-B428-AC8EE737FA7F</string>
+		</dict>
+		<key>60415FA2-4FE6-48E7-AC70-088EC208B76F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>60415FA2-4FE6-48E7-AC70-088EC208B76F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>bottomsheetdialog-ios project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>bottomsheetdialog-ios</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>timeStartedRecording</key>
+			<real>655321714.16366696</real>
+			<key>timeStoppedRecording</key>
+			<real>655321714.79619396</real>
+			<key>title</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>uniqueIdentifier</key>
+			<string>60415FA2-4FE6-48E7-AC70-088EC208B76F</string>
+		</dict>
+		<key>60CC0992-D975-44CB-8D3E-7D75A2E7B304</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>60CC0992-D975-44CB-8D3E-7D75A2E7B304.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>bottomsheetdialog-ios project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>bottomsheetdialog-ios</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>timeStartedRecording</key>
+			<real>655322810.75783598</real>
+			<key>timeStoppedRecording</key>
+			<real>655322811.60158706</real>
+			<key>title</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>uniqueIdentifier</key>
+			<string>60CC0992-D975-44CB-8D3E-7D75A2E7B304</string>
+		</dict>
+		<key>60DA52A9-EEB2-4F72-B16A-8955D832E808</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>60DA52A9-EEB2-4F72-B16A-8955D832E808.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>bottomsheetdialog-ios project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>bottomsheetdialog-ios</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>timeStartedRecording</key>
+			<real>655320865.08685505</real>
+			<key>timeStoppedRecording</key>
+			<real>655320866.91888905</real>
+			<key>title</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>uniqueIdentifier</key>
+			<string>60DA52A9-EEB2-4F72-B16A-8955D832E808</string>
+		</dict>
+		<key>61730626-5951-4DFF-9518-0CF25FCD479D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>61730626-5951-4DFF-9518-0CF25FCD479D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>bottomsheetdialog-ios project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>bottomsheetdialog-ios</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>timeStartedRecording</key>
+			<real>655321797.83852804</real>
+			<key>timeStoppedRecording</key>
+			<real>655321798.63622499</real>
+			<key>title</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>uniqueIdentifier</key>
+			<string>61730626-5951-4DFF-9518-0CF25FCD479D</string>
+		</dict>
+		<key>6204F79E-E839-4A36-854F-904E1DE13BD6</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>6204F79E-E839-4A36-854F-904E1DE13BD6.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>bottomsheetdialog-ios project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>bottomsheetdialog-ios</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>timeStartedRecording</key>
+			<real>655320879.33598399</real>
+			<key>timeStoppedRecording</key>
+			<real>655320879.61082697</real>
+			<key>title</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>uniqueIdentifier</key>
+			<string>6204F79E-E839-4A36-854F-904E1DE13BD6</string>
+		</dict>
+		<key>628A46CB-C77F-443F-B562-67172CACB937</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>628A46CB-C77F-443F-B562-67172CACB937.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>bottomsheetdialog-ios project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>bottomsheetdialog-ios</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>timeStartedRecording</key>
+			<real>655323095.88091898</real>
+			<key>timeStoppedRecording</key>
+			<real>655323096.69183004</real>
+			<key>title</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>uniqueIdentifier</key>
+			<string>628A46CB-C77F-443F-B562-67172CACB937</string>
+		</dict>
+		<key>62A5BF60-EB9E-46C2-B380-0A2B77ED6E42</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>62A5BF60-EB9E-46C2-B380-0A2B77ED6E42.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>bottomsheetdialog-ios project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>bottomsheetdialog-ios</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>timeStartedRecording</key>
+			<real>655321631.24544299</real>
+			<key>timeStoppedRecording</key>
+			<real>655321631.41605401</real>
+			<key>title</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>uniqueIdentifier</key>
+			<string>62A5BF60-EB9E-46C2-B380-0A2B77ED6E42</string>
+		</dict>
+		<key>633458B1-89D1-4CC9-8808-6E94D4744EA2</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>633458B1-89D1-4CC9-8808-6E94D4744EA2.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>bottomsheetdialog-ios project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>bottomsheetdialog-ios</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>timeStartedRecording</key>
+			<real>655321133.74888396</real>
+			<key>timeStoppedRecording</key>
+			<real>655321134.04163599</real>
+			<key>title</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>uniqueIdentifier</key>
+			<string>633458B1-89D1-4CC9-8808-6E94D4744EA2</string>
+		</dict>
+		<key>643942B2-2339-4A0A-AD39-0830030AF2B5</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>643942B2-2339-4A0A-AD39-0830030AF2B5.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>bottomsheetdialog-ios project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>bottomsheetdialog-ios</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>timeStartedRecording</key>
+			<real>655321205.15714598</real>
+			<key>timeStoppedRecording</key>
+			<real>655321208.25340605</real>
+			<key>title</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>uniqueIdentifier</key>
+			<string>643942B2-2339-4A0A-AD39-0830030AF2B5</string>
+		</dict>
+		<key>719DD5FE-034B-439D-A02E-A118B8FB7241</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>719DD5FE-034B-439D-A02E-A118B8FB7241.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>bottomsheetdialog-ios project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>bottomsheetdialog-ios</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>timeStartedRecording</key>
+			<real>655319538.96474004</real>
+			<key>timeStoppedRecording</key>
+			<real>655319539.64469302</real>
+			<key>title</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>uniqueIdentifier</key>
+			<string>719DD5FE-034B-439D-A02E-A118B8FB7241</string>
+		</dict>
+		<key>73ACE902-0A94-48AF-878E-94C95B052F2A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>73ACE902-0A94-48AF-878E-94C95B052F2A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>bottomsheetdialog-ios project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>bottomsheetdialog-ios</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>timeStartedRecording</key>
+			<real>655320954.38111699</real>
+			<key>timeStoppedRecording</key>
+			<real>655320954.63235903</real>
+			<key>title</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>uniqueIdentifier</key>
+			<string>73ACE902-0A94-48AF-878E-94C95B052F2A</string>
+		</dict>
+		<key>796F6CD9-48FC-44D6-886F-5B1EB5B3941A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>796F6CD9-48FC-44D6-886F-5B1EB5B3941A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>bottomsheetdialog-ios project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>bottomsheetdialog-ios</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>timeStartedRecording</key>
+			<real>655318963.32251096</real>
+			<key>timeStoppedRecording</key>
+			<real>655318963.55572605</real>
+			<key>title</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>uniqueIdentifier</key>
+			<string>796F6CD9-48FC-44D6-886F-5B1EB5B3941A</string>
+		</dict>
+		<key>7E1B5246-E95A-458E-83E7-8B174AD506D5</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>7E1B5246-E95A-458E-83E7-8B174AD506D5.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>bottomsheetdialog-ios project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>bottomsheetdialog-ios</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>timeStartedRecording</key>
+			<real>655322863.80557406</real>
+			<key>timeStoppedRecording</key>
+			<real>655322864.65932798</real>
+			<key>title</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>uniqueIdentifier</key>
+			<string>7E1B5246-E95A-458E-83E7-8B174AD506D5</string>
+		</dict>
+		<key>841C13F4-7689-476D-BA49-1C86198E8A41</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>841C13F4-7689-476D-BA49-1C86198E8A41.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>bottomsheetdialog-ios project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>bottomsheetdialog-ios</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>timeStartedRecording</key>
+			<real>655319565.34481001</real>
+			<key>timeStoppedRecording</key>
+			<real>655319565.85267794</real>
+			<key>title</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>uniqueIdentifier</key>
+			<string>841C13F4-7689-476D-BA49-1C86198E8A41</string>
+		</dict>
+		<key>862C7A7B-7075-45C5-BF6C-2481540A8E8C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>862C7A7B-7075-45C5-BF6C-2481540A8E8C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>bottomsheetdialog-ios project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>bottomsheetdialog-ios</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>timeStartedRecording</key>
+			<real>655318989.65937698</real>
+			<key>timeStoppedRecording</key>
+			<real>655318990.50071704</real>
+			<key>title</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>uniqueIdentifier</key>
+			<string>862C7A7B-7075-45C5-BF6C-2481540A8E8C</string>
+		</dict>
+		<key>874542E3-9C4D-47BC-8032-2C8BD48D3098</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>874542E3-9C4D-47BC-8032-2C8BD48D3098.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>bottomsheetdialog-ios project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>bottomsheetdialog-ios</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>timeStartedRecording</key>
+			<real>655321618.02998698</real>
+			<key>timeStoppedRecording</key>
+			<real>655321618.17960298</real>
+			<key>title</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>uniqueIdentifier</key>
+			<string>874542E3-9C4D-47BC-8032-2C8BD48D3098</string>
+		</dict>
+		<key>876F8EC8-E817-44F7-8D90-C46981892EAD</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>876F8EC8-E817-44F7-8D90-C46981892EAD.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>bottomsheetdialog-ios project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>bottomsheetdialog-ios</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>timeStartedRecording</key>
+			<real>655319674.098333</real>
+			<key>timeStoppedRecording</key>
+			<real>655319674.27517605</real>
+			<key>title</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>uniqueIdentifier</key>
+			<string>876F8EC8-E817-44F7-8D90-C46981892EAD</string>
+		</dict>
+		<key>8BD5A37C-19A6-4777-B659-4DE12249DB1A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>8BD5A37C-19A6-4777-B659-4DE12249DB1A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>bottomsheetdialog-ios project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>bottomsheetdialog-ios</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>timeStartedRecording</key>
+			<real>655321962.29078603</real>
+			<key>timeStoppedRecording</key>
+			<real>655321962.94261098</real>
+			<key>title</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>uniqueIdentifier</key>
+			<string>8BD5A37C-19A6-4777-B659-4DE12249DB1A</string>
+		</dict>
+		<key>8EB88708-D19F-4B45-AF35-7B8F63BFA03B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>8EB88708-D19F-4B45-AF35-7B8F63BFA03B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>bottomsheetdialog-ios project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>bottomsheetdialog-ios</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>timeStartedRecording</key>
+			<real>655323086.69883299</real>
+			<key>timeStoppedRecording</key>
+			<real>655323087.50972295</real>
+			<key>title</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>uniqueIdentifier</key>
+			<string>8EB88708-D19F-4B45-AF35-7B8F63BFA03B</string>
+		</dict>
+		<key>8F4D5B04-7C33-4B6F-9A77-B013BD0686B4</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>8F4D5B04-7C33-4B6F-9A77-B013BD0686B4.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>bottomsheetdialog-ios project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>bottomsheetdialog-ios</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>timeStartedRecording</key>
+			<real>655323345.759161</real>
+			<key>timeStoppedRecording</key>
+			<real>655323346.55972695</real>
+			<key>title</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>uniqueIdentifier</key>
+			<string>8F4D5B04-7C33-4B6F-9A77-B013BD0686B4</string>
+		</dict>
+		<key>91761346-EA20-4FC9-8C94-CE30272566DA</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>91761346-EA20-4FC9-8C94-CE30272566DA.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>bottomsheetdialog-ios project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>bottomsheetdialog-ios</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>timeStartedRecording</key>
+			<real>655321922.57137299</real>
+			<key>timeStoppedRecording</key>
+			<real>655321923.41452801</real>
+			<key>title</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>uniqueIdentifier</key>
+			<string>91761346-EA20-4FC9-8C94-CE30272566DA</string>
+		</dict>
+		<key>91FF4EA7-D7F7-41FA-BC72-69787CA61954</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>91FF4EA7-D7F7-41FA-BC72-69787CA61954.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>bottomsheetdialog-ios project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>bottomsheetdialog-ios</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>timeStartedRecording</key>
+			<real>655321429.03040695</real>
+			<key>timeStoppedRecording</key>
+			<real>655321429.28356194</real>
+			<key>title</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>uniqueIdentifier</key>
+			<string>91FF4EA7-D7F7-41FA-BC72-69787CA61954</string>
+		</dict>
+		<key>92547C5A-63B8-4B24-B70A-CED018599A77</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>92547C5A-63B8-4B24-B70A-CED018599A77.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>bottomsheetdialog-ios project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>bottomsheetdialog-ios</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>timeStartedRecording</key>
+			<real>655320897.70173001</real>
+			<key>timeStoppedRecording</key>
+			<real>655320897.96287298</real>
+			<key>title</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>uniqueIdentifier</key>
+			<string>92547C5A-63B8-4B24-B70A-CED018599A77</string>
+		</dict>
+		<key>9447F344-E644-409A-A85D-18BC69AC6081</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>9447F344-E644-409A-A85D-18BC69AC6081.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>bottomsheetdialog-ios project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>bottomsheetdialog-ios</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>timeStartedRecording</key>
+			<real>655321601.55490696</real>
+			<key>timeStoppedRecording</key>
+			<real>655321601.72027504</real>
+			<key>title</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>uniqueIdentifier</key>
+			<string>9447F344-E644-409A-A85D-18BC69AC6081</string>
+		</dict>
+		<key>95B1DE86-1BC4-4589-A6F6-3C91747DBFFE</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>95B1DE86-1BC4-4589-A6F6-3C91747DBFFE.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>bottomsheetdialog-ios project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>bottomsheetdialog-ios</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>timeStartedRecording</key>
+			<real>655323032.23737204</real>
+			<key>timeStoppedRecording</key>
+			<real>655323033.06869805</real>
+			<key>title</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>uniqueIdentifier</key>
+			<string>95B1DE86-1BC4-4589-A6F6-3C91747DBFFE</string>
+		</dict>
+		<key>99361219-631B-486D-9911-A6AE520B7177</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>99361219-631B-486D-9911-A6AE520B7177.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>bottomsheetdialog-ios project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>bottomsheetdialog-ios</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>timeStartedRecording</key>
+			<real>655320940.26066303</real>
+			<key>timeStoppedRecording</key>
+			<real>655320940.50507998</real>
+			<key>title</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>uniqueIdentifier</key>
+			<string>99361219-631B-486D-9911-A6AE520B7177</string>
+		</dict>
+		<key>9AF33D87-98D6-439E-8858-5D786E292D3A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>9AF33D87-98D6-439E-8858-5D786E292D3A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>bottomsheetdialog-ios project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>bottomsheetdialog-ios</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>timeStartedRecording</key>
+			<real>655322993.70302904</real>
+			<key>timeStoppedRecording</key>
+			<real>655322994.519683</real>
+			<key>title</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>uniqueIdentifier</key>
+			<string>9AF33D87-98D6-439E-8858-5D786E292D3A</string>
+		</dict>
+		<key>9BB97515-AF39-4682-B318-FB38FF428061</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>9BB97515-AF39-4682-B318-FB38FF428061.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>bottomsheetdialog-ios project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>bottomsheetdialog-ios</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>timeStartedRecording</key>
+			<real>655319306.69079995</real>
+			<key>timeStoppedRecording</key>
+			<real>655319307.48627198</real>
+			<key>title</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>uniqueIdentifier</key>
+			<string>9BB97515-AF39-4682-B318-FB38FF428061</string>
+		</dict>
+		<key>9C8B2421-5991-46D1-B9A1-A865E62EE09C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>9C8B2421-5991-46D1-B9A1-A865E62EE09C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>bottomsheetdialog-ios project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>bottomsheetdialog-ios</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>timeStartedRecording</key>
+			<real>655323109.46077001</real>
+			<key>timeStoppedRecording</key>
+			<real>655323110.294577</real>
+			<key>title</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>uniqueIdentifier</key>
+			<string>9C8B2421-5991-46D1-B9A1-A865E62EE09C</string>
+		</dict>
+		<key>9FDBBB09-2038-41B3-BE4E-55CD2E3AD7C6</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>9FDBBB09-2038-41B3-BE4E-55CD2E3AD7C6.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>bottomsheetdialog-ios project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>bottomsheetdialog-ios</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>timeStartedRecording</key>
+			<real>655320907.67256296</real>
+			<key>timeStoppedRecording</key>
+			<real>655320907.93898702</real>
+			<key>title</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>uniqueIdentifier</key>
+			<string>9FDBBB09-2038-41B3-BE4E-55CD2E3AD7C6</string>
+		</dict>
+		<key>A1D6F635-EC20-4A4C-8A82-F90F39851A44</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A1D6F635-EC20-4A4C-8A82-F90F39851A44.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>bottomsheetdialog-ios project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>bottomsheetdialog-ios</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>timeStartedRecording</key>
+			<real>655321538.75257599</real>
+			<key>timeStoppedRecording</key>
+			<real>655321539.02037799</real>
+			<key>title</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>uniqueIdentifier</key>
+			<string>A1D6F635-EC20-4A4C-8A82-F90F39851A44</string>
+		</dict>
+		<key>A2E002D4-5488-4FCF-8FA2-F7EB7CA1338C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A2E002D4-5488-4FCF-8FA2-F7EB7CA1338C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>bottomsheetdialog-ios project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>bottomsheetdialog-ios</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>timeStartedRecording</key>
+			<real>655319034.42856598</real>
+			<key>timeStoppedRecording</key>
+			<real>655319035.54773796</real>
+			<key>title</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>uniqueIdentifier</key>
+			<string>A2E002D4-5488-4FCF-8FA2-F7EB7CA1338C</string>
+		</dict>
+		<key>A47A7E7C-15F5-4335-BACB-35445A5BCBF7</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A47A7E7C-15F5-4335-BACB-35445A5BCBF7.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>bottomsheetdialog-ios project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>bottomsheetdialog-ios</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>timeStartedRecording</key>
+			<real>655323491.95215201</real>
+			<key>timeStoppedRecording</key>
+			<real>655323492.821913</real>
+			<key>title</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>uniqueIdentifier</key>
+			<string>A47A7E7C-15F5-4335-BACB-35445A5BCBF7</string>
+		</dict>
+		<key>A6E7ACE7-C668-4153-910E-773DD2E2D3DC</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A6E7ACE7-C668-4153-910E-773DD2E2D3DC.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>bottomsheetdialog-ios project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>bottomsheetdialog-ios</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>timeStartedRecording</key>
+			<real>655321652.653566</real>
+			<key>timeStoppedRecording</key>
+			<real>655321653.12485003</real>
+			<key>title</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>uniqueIdentifier</key>
+			<string>A6E7ACE7-C668-4153-910E-773DD2E2D3DC</string>
+		</dict>
+		<key>A799508A-B540-4844-9A9D-EAF18B5E0A56</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A799508A-B540-4844-9A9D-EAF18B5E0A56.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>bottomsheetdialog-ios project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>bottomsheetdialog-ios</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>timeStartedRecording</key>
+			<real>655322895.56747496</real>
+			<key>timeStoppedRecording</key>
+			<real>655322896.44554901</real>
+			<key>title</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>uniqueIdentifier</key>
+			<string>A799508A-B540-4844-9A9D-EAF18B5E0A56</string>
+		</dict>
+		<key>AA81A9D7-BF8D-48E0-9FAF-52304B9E0F1D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>AA81A9D7-BF8D-48E0-9FAF-52304B9E0F1D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>bottomsheetdialog-ios project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>bottomsheetdialog-ios</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>timeStartedRecording</key>
+			<real>655321695.56359804</real>
+			<key>timeStoppedRecording</key>
+			<real>655321696.76501203</real>
+			<key>title</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>uniqueIdentifier</key>
+			<string>AA81A9D7-BF8D-48E0-9FAF-52304B9E0F1D</string>
+		</dict>
+		<key>ACCFE59A-DEBC-4CDC-A8A2-1F415BB5EA6A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>ACCFE59A-DEBC-4CDC-A8A2-1F415BB5EA6A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>bottomsheetdialog-ios project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>bottomsheetdialog-ios</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>timeStartedRecording</key>
+			<real>655319071.58165705</real>
+			<key>timeStoppedRecording</key>
+			<real>655319072.789096</real>
+			<key>title</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>uniqueIdentifier</key>
+			<string>ACCFE59A-DEBC-4CDC-A8A2-1F415BB5EA6A</string>
+		</dict>
+		<key>B0D36B8B-C5DD-48C7-AFAE-D1C931EA94B9</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B0D36B8B-C5DD-48C7-AFAE-D1C931EA94B9.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>bottomsheetdialog-ios project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>bottomsheetdialog-ios</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>timeStartedRecording</key>
+			<real>655323012.13201201</real>
+			<key>timeStoppedRecording</key>
+			<real>655323013.026456</real>
+			<key>title</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>uniqueIdentifier</key>
+			<string>B0D36B8B-C5DD-48C7-AFAE-D1C931EA94B9</string>
+		</dict>
+		<key>B22B2F41-F994-471B-AB93-BC79A7271C00</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B22B2F41-F994-471B-AB93-BC79A7271C00.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>bottomsheetdialog-ios project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>bottomsheetdialog-ios</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>timeStartedRecording</key>
+			<real>655321604.65263605</real>
+			<key>timeStoppedRecording</key>
+			<real>655321604.82386196</real>
+			<key>title</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>uniqueIdentifier</key>
+			<string>B22B2F41-F994-471B-AB93-BC79A7271C00</string>
+		</dict>
+		<key>B6710555-30C0-4274-B58F-26D33CD1CC14</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B6710555-30C0-4274-B58F-26D33CD1CC14.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>bottomsheetdialog-ios project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>bottomsheetdialog-ios</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>timeStartedRecording</key>
+			<real>655321349.43494701</real>
+			<key>timeStoppedRecording</key>
+			<real>655321349.68895698</real>
+			<key>title</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>uniqueIdentifier</key>
+			<string>B6710555-30C0-4274-B58F-26D33CD1CC14</string>
+		</dict>
+		<key>B6FDD426-4673-487C-8949-F9B618DF1147</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B6FDD426-4673-487C-8949-F9B618DF1147.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>bottomsheetdialog-ios project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>bottomsheetdialog-ios</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>timeStartedRecording</key>
+			<real>655318895.19428694</real>
+			<key>timeStoppedRecording</key>
+			<real>655318905.15652204</real>
+			<key>title</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>uniqueIdentifier</key>
+			<string>B6FDD426-4673-487C-8949-F9B618DF1147</string>
+		</dict>
+		<key>B823E875-AA57-4C36-A12D-E2F556763129</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B823E875-AA57-4C36-A12D-E2F556763129.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>bottomsheetdialog-ios project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>bottomsheetdialog-ios</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>timeStartedRecording</key>
+			<real>655322538.07974601</real>
+			<key>timeStoppedRecording</key>
+			<real>655322539.65826201</real>
+			<key>title</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>uniqueIdentifier</key>
+			<string>B823E875-AA57-4C36-A12D-E2F556763129</string>
+		</dict>
+		<key>BB202462-E026-4967-950A-D9C248A7A95D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>BB202462-E026-4967-950A-D9C248A7A95D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>bottomsheetdialog-ios project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>bottomsheetdialog-ios</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>timeStartedRecording</key>
+			<real>655319073.94652402</real>
+			<key>timeStoppedRecording</key>
+			<real>655319074.71513605</real>
+			<key>title</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>uniqueIdentifier</key>
+			<string>BB202462-E026-4967-950A-D9C248A7A95D</string>
+		</dict>
+		<key>BD802040-5363-4E36-84DF-07A27539946E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>BD802040-5363-4E36-84DF-07A27539946E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>bottomsheetdialog-ios project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>bottomsheetdialog-ios</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>timeStartedRecording</key>
+			<real>655322797.71822703</real>
+			<key>timeStoppedRecording</key>
+			<real>655322798.546229</real>
+			<key>title</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>uniqueIdentifier</key>
+			<string>BD802040-5363-4E36-84DF-07A27539946E</string>
+		</dict>
+		<key>BF65098F-F6AB-4CAB-9908-F2141F27C99E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>BF65098F-F6AB-4CAB-9908-F2141F27C99E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>bottomsheetdialog-ios project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>bottomsheetdialog-ios</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>timeStartedRecording</key>
+			<real>655319342.65659201</real>
+			<key>timeStoppedRecording</key>
+			<real>655319343.35325003</real>
+			<key>title</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>uniqueIdentifier</key>
+			<string>BF65098F-F6AB-4CAB-9908-F2141F27C99E</string>
+		</dict>
+		<key>C4C03CB8-1297-4899-8ECC-FE520742D57A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C4C03CB8-1297-4899-8ECC-FE520742D57A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>bottomsheetdialog-ios project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>bottomsheetdialog-ios</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>timeStartedRecording</key>
+			<real>655319239.94614196</real>
+			<key>timeStoppedRecording</key>
+			<real>655319240.64548504</real>
+			<key>title</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>uniqueIdentifier</key>
+			<string>C4C03CB8-1297-4899-8ECC-FE520742D57A</string>
+		</dict>
+		<key>C86ED436-B7FA-4FE3-B64A-30B82DA05A1D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C86ED436-B7FA-4FE3-B64A-30B82DA05A1D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>bottomsheetdialog-ios project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>bottomsheetdialog-ios</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>timeStartedRecording</key>
+			<real>655322768.44067597</real>
+			<key>timeStoppedRecording</key>
+			<real>655322769.27149796</real>
+			<key>title</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>uniqueIdentifier</key>
+			<string>C86ED436-B7FA-4FE3-B64A-30B82DA05A1D</string>
+		</dict>
+		<key>CC7A074E-3757-48B9-8ED2-16C8709545E2</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>CC7A074E-3757-48B9-8ED2-16C8709545E2.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>bottomsheetdialog-ios project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>bottomsheetdialog-ios</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>timeStartedRecording</key>
+			<real>655321092.94939494</real>
+			<key>timeStoppedRecording</key>
+			<real>655321093.21456301</real>
+			<key>title</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>uniqueIdentifier</key>
+			<string>CC7A074E-3757-48B9-8ED2-16C8709545E2</string>
+		</dict>
+		<key>CCCB7A56-0F90-4D76-908B-3B2A0226B8CA</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>CCCB7A56-0F90-4D76-908B-3B2A0226B8CA.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>bottomsheetdialog-ios project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>bottomsheetdialog-ios</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>timeStartedRecording</key>
+			<real>655319274.66433799</real>
+			<key>timeStoppedRecording</key>
+			<real>655319275.34795904</real>
+			<key>title</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>uniqueIdentifier</key>
+			<string>CCCB7A56-0F90-4D76-908B-3B2A0226B8CA</string>
+		</dict>
+		<key>D2056040-ADCA-457B-95C3-904D1E4A27F0</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D2056040-ADCA-457B-95C3-904D1E4A27F0.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>bottomsheetdialog-ios project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>bottomsheetdialog-ios</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>timeStartedRecording</key>
+			<real>655322930.22955406</real>
+			<key>timeStoppedRecording</key>
+			<real>655322931.15016198</real>
+			<key>title</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>uniqueIdentifier</key>
+			<string>D2056040-ADCA-457B-95C3-904D1E4A27F0</string>
+		</dict>
+		<key>D475A23F-01FA-4904-825E-52D86946AF7C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D475A23F-01FA-4904-825E-52D86946AF7C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>bottomsheetdialog-ios project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>bottomsheetdialog-ios</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>timeStartedRecording</key>
+			<real>655323791.432289</real>
+			<key>timeStoppedRecording</key>
+			<real>655323791.46816194</real>
+			<key>title</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>uniqueIdentifier</key>
+			<string>D475A23F-01FA-4904-825E-52D86946AF7C</string>
+		</dict>
+		<key>D4E8B49C-174E-4D1E-B76A-3D671F9A8020</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D4E8B49C-174E-4D1E-B76A-3D671F9A8020.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>bottomsheetdialog-ios project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>bottomsheetdialog-ios</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>timeStartedRecording</key>
+			<real>655323073.25410402</real>
+			<key>timeStoppedRecording</key>
+			<real>655323074.07807195</real>
+			<key>title</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>uniqueIdentifier</key>
+			<string>D4E8B49C-174E-4D1E-B76A-3D671F9A8020</string>
+		</dict>
+		<key>D734E40F-805E-4628-B6A5-A7953CE18C94</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D734E40F-805E-4628-B6A5-A7953CE18C94.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>bottomsheetdialog-ios project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>bottomsheetdialog-ios</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>timeStartedRecording</key>
+			<real>655322100.71865201</real>
+			<key>timeStoppedRecording</key>
+			<real>655322101.55801201</real>
+			<key>title</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>uniqueIdentifier</key>
+			<string>D734E40F-805E-4628-B6A5-A7953CE18C94</string>
+		</dict>
+		<key>DFE5A79A-9433-476F-BFD4-D97F7C13C342</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>DFE5A79A-9433-476F-BFD4-D97F7C13C342.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>bottomsheetdialog-ios project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>bottomsheetdialog-ios</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>timeStartedRecording</key>
+			<real>655319467.79214001</real>
+			<key>timeStoppedRecording</key>
+			<real>655319468.629125</real>
+			<key>title</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>uniqueIdentifier</key>
+			<string>DFE5A79A-9433-476F-BFD4-D97F7C13C342</string>
+		</dict>
+		<key>E2B52345-6EF3-4AFC-A4DB-8FFB1EE6A26D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E2B52345-6EF3-4AFC-A4DB-8FFB1EE6A26D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>bottomsheetdialog-ios project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>bottomsheetdialog-ios</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>timeStartedRecording</key>
+			<real>655323579.53456998</real>
+			<key>timeStoppedRecording</key>
+			<real>655323580.32337105</real>
+			<key>title</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>uniqueIdentifier</key>
+			<string>E2B52345-6EF3-4AFC-A4DB-8FFB1EE6A26D</string>
+		</dict>
+		<key>E4BF6FBD-E5BE-4F1E-B84E-E22FFAC25B24</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E4BF6FBD-E5BE-4F1E-B84E-E22FFAC25B24.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>bottomsheetdialog-ios project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>bottomsheetdialog-ios</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>timeStartedRecording</key>
+			<real>655322954.97094202</real>
+			<key>timeStoppedRecording</key>
+			<real>655322955.90357006</real>
+			<key>title</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>uniqueIdentifier</key>
+			<string>E4BF6FBD-E5BE-4F1E-B84E-E22FFAC25B24</string>
+		</dict>
+		<key>E4FA02D6-C2D2-402B-A9C9-33483665F287</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E4FA02D6-C2D2-402B-A9C9-33483665F287.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>bottomsheetdialog-ios project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>bottomsheetdialog-ios</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>timeStartedRecording</key>
+			<real>655321571.15884197</real>
+			<key>timeStoppedRecording</key>
+			<real>655321571.40568197</real>
+			<key>title</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>uniqueIdentifier</key>
+			<string>E4FA02D6-C2D2-402B-A9C9-33483665F287</string>
+		</dict>
+		<key>E6A220EC-4B2F-47E9-86BF-D45AC79ACC5E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E6A220EC-4B2F-47E9-86BF-D45AC79ACC5E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>bottomsheetdialog-ios project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>bottomsheetdialog-ios</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>timeStartedRecording</key>
+			<real>655321103.63535404</real>
+			<key>timeStoppedRecording</key>
+			<real>655321103.87979805</real>
+			<key>title</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>uniqueIdentifier</key>
+			<string>E6A220EC-4B2F-47E9-86BF-D45AC79ACC5E</string>
+		</dict>
+		<key>F0102C5E-3893-4C69-A31E-B68438345CD7</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F0102C5E-3893-4C69-A31E-B68438345CD7.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>bottomsheetdialog-ios project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>bottomsheetdialog-ios</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>timeStartedRecording</key>
+			<real>655322665.09355605</real>
+			<key>timeStoppedRecording</key>
+			<real>655322666.032763</real>
+			<key>title</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>uniqueIdentifier</key>
+			<string>F0102C5E-3893-4C69-A31E-B68438345CD7</string>
+		</dict>
+		<key>F2562EFC-BCD7-49DD-8960-7B282546EEA0</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F2562EFC-BCD7-49DD-8960-7B282546EEA0.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>bottomsheetdialog-ios project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>bottomsheetdialog-ios</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>timeStartedRecording</key>
+			<real>655319091.55441201</real>
+			<key>timeStoppedRecording</key>
+			<real>655319092.29559004</real>
+			<key>title</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>uniqueIdentifier</key>
+			<string>F2562EFC-BCD7-49DD-8960-7B282546EEA0</string>
+		</dict>
+		<key>F4CA0D64-B320-47DB-8070-B6D5A09EAFAC</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F4CA0D64-B320-47DB-8070-B6D5A09EAFAC.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>bottomsheetdialog-ios project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>bottomsheetdialog-ios</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>timeStartedRecording</key>
+			<real>655323270.22882998</real>
+			<key>timeStoppedRecording</key>
+			<real>655323270.73189402</real>
+			<key>title</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>uniqueIdentifier</key>
+			<string>F4CA0D64-B320-47DB-8070-B6D5A09EAFAC</string>
+		</dict>
+		<key>F5FD00F4-384D-48C1-A8F0-927E701F800F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F5FD00F4-384D-48C1-A8F0-927E701F800F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>bottomsheetdialog-ios project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>bottomsheetdialog-ios</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>timeStartedRecording</key>
+			<real>655319637.68834996</real>
+			<key>timeStoppedRecording</key>
+			<real>655319638.16259801</real>
+			<key>title</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>uniqueIdentifier</key>
+			<string>F5FD00F4-384D-48C1-A8F0-927E701F800F</string>
+		</dict>
+		<key>F7BA587C-E6B6-448B-8C76-29AC46499FA4</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F7BA587C-E6B6-448B-8C76-29AC46499FA4.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>bottomsheetdialog-ios project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>bottomsheetdialog-ios</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>timeStartedRecording</key>
+			<real>655321858.50260699</real>
+			<key>timeStoppedRecording</key>
+			<real>655321859.53678799</real>
+			<key>title</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>uniqueIdentifier</key>
+			<string>F7BA587C-E6B6-448B-8C76-29AC46499FA4</string>
+		</dict>
+		<key>FAC8007C-9CCB-4C4C-BBA3-8FB62C74CC4F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>FAC8007C-9CCB-4C4C-BBA3-8FB62C74CC4F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>bottomsheetdialog-ios project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>bottomsheetdialog-ios</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>timeStartedRecording</key>
+			<real>655322910.98177004</real>
+			<key>timeStoppedRecording</key>
+			<real>655322911.81335795</real>
+			<key>title</key>
+			<string>Build bottomsheetdialog-ios</string>
+			<key>uniqueIdentifier</key>
+			<string>FAC8007C-9CCB-4C4C-BBA3-8FB62C74CC4F</string>
 		</dict>
 	</dict>
 </dict>

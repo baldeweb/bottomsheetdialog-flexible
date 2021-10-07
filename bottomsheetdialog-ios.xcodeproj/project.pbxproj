@@ -16,6 +16,8 @@
 		BA0F5623270DEE8A00C82861 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BA0F5621270DEE8A00C82861 /* LaunchScreen.storyboard */; };
 		BA0F562C270E03FA00C82861 /* BottomSheetDialogView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA0F562B270E03FA00C82861 /* BottomSheetDialogView.swift */; };
 		BA0F562E270E045B00C82861 /* UIExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA0F562D270E045B00C82861 /* UIExtensions.swift */; };
+		BA1B1D9C270F3877000D97D6 /* ButtonStyleEnum.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA1B1D9B270F3877000D97D6 /* ButtonStyleEnum.swift */; };
+		BA1B1D9E270F3883000D97D6 /* DialogStyleEnum.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA1B1D9D270F3883000D97D6 /* DialogStyleEnum.swift */; };
 		BA33C154270E22EA000EB6C5 /* Button.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA33C153270E22E9000EB6C5 /* Button.swift */; };
 /* End PBXBuildFile section */
 
@@ -31,6 +33,8 @@
 		BA0F5624270DEE8A00C82861 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		BA0F562B270E03FA00C82861 /* BottomSheetDialogView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BottomSheetDialogView.swift; sourceTree = "<group>"; };
 		BA0F562D270E045B00C82861 /* UIExtensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIExtensions.swift; sourceTree = "<group>"; };
+		BA1B1D9B270F3877000D97D6 /* ButtonStyleEnum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonStyleEnum.swift; sourceTree = "<group>"; };
+		BA1B1D9D270F3883000D97D6 /* DialogStyleEnum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DialogStyleEnum.swift; sourceTree = "<group>"; };
 		BA33C153270E22E9000EB6C5 /* Button.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Button.swift; sourceTree = "<group>"; };
 		D4E4A0550E15CCF875688622 /* Pods_bottomsheetdialog_ios.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_bottomsheetdialog_ios.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		D695904F17D35AA9720C26D0 /* Pods-bottomsheetdialog-ios.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-bottomsheetdialog-ios.release.xcconfig"; path = "Target Support Files/Pods-bottomsheetdialog-ios/Pods-bottomsheetdialog-ios.release.xcconfig"; sourceTree = "<group>"; };
@@ -69,6 +73,7 @@
 		BA0F5615270DEE8900C82861 /* bottomsheetdialog-ios */ = {
 			isa = PBXGroup;
 			children = (
+				BA1B1D9A270F3869000D97D6 /* enum */,
 				BA33C153270E22E9000EB6C5 /* Button.swift */,
 				BA0F5616270DEE8900C82861 /* AppDelegate.swift */,
 				BA0F5618270DEE8900C82861 /* SceneDelegate.swift */,
@@ -81,6 +86,15 @@
 				BA0F562D270E045B00C82861 /* UIExtensions.swift */,
 			);
 			path = "bottomsheetdialog-ios";
+			sourceTree = "<group>";
+		};
+		BA1B1D9A270F3869000D97D6 /* enum */ = {
+			isa = PBXGroup;
+			children = (
+				BA1B1D9B270F3877000D97D6 /* ButtonStyleEnum.swift */,
+				BA1B1D9D270F3883000D97D6 /* DialogStyleEnum.swift */,
+			);
+			name = enum;
 			sourceTree = "<group>";
 		};
 		C41300FD27FEDE38AA726F26 /* Frameworks */ = {
@@ -215,10 +229,12 @@
 			buildActionMask = 2147483647;
 			files = (
 				BA0F561B270DEE8900C82861 /* ViewController.swift in Sources */,
+				BA1B1D9C270F3877000D97D6 /* ButtonStyleEnum.swift in Sources */,
 				BA33C154270E22EA000EB6C5 /* Button.swift in Sources */,
 				BA0F5617270DEE8900C82861 /* AppDelegate.swift in Sources */,
 				BA0F5619270DEE8900C82861 /* SceneDelegate.swift in Sources */,
 				BA0F562E270E045B00C82861 /* UIExtensions.swift in Sources */,
+				BA1B1D9E270F3883000D97D6 /* DialogStyleEnum.swift in Sources */,
 				BA0F562C270E03FA00C82861 /* BottomSheetDialogView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
